@@ -167,7 +167,4 @@ Cálculo de deducciones:
     }
 
 
-
-
-
 }
